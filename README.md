@@ -1,2 +1,2 @@
 # Mega-Grazio-LTD-
-My first dummy webpage
+My first dummy website

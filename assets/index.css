@@ -1,0 +1,87 @@
+.navbar-brand img{
+	height:190%;
+	margin-top:-15%;
+}
+.navbar-inverse{
+	background-color:rgba(0, 0, 0, .075);
+	border-color:rgba(255, 255, 255, .15);
+	background-repeat: no-repeat;
+}
+.navbar-inverse .navbar-toggle{
+	border-color:rgba(255, 255, 255, .15);
+}
+.navbar-inverse .navbar-collapse, .navbar-inverse .navbar-form{
+	border-color:rgba(255, 255, 255, .15);
+}
+.navbar{
+	border-radius:0px;
+}
+div.col-md-6{
+	margin-top:-3.5%;
+}
+label.navbar-nav{
+	margin-top:10%;
+}
+.navbar-inverse .navbar-toggle:hover, .navbar-inverse .navbar-toggle:focus{
+	background-color:rgba(255, 255, 255, .15);
+}
+.navbar-inverse .navbar-toggle{
+	background-color:rgba(255, 255, 255, .15);
+}
+.dog{
+	margin-left:-15px;
+}
+.sr-only {
+    position: absolute;
+    width: 1px;
+    height: 1px;
+    padding: 0;
+    margin: -1px;
+    overflow: hidden;
+    clip: rect(0,0,0,0);
+    border: 0;
+}
+#footer{
+	position:static;
+}
+#image1{
+	margin-top:-50%;
+}
+
+
+/* sticky footer css
+* start editing footer from here
+*/
+html {
+  position: relative;
+  min-height: 100%;
+}
+body {
+  /* Margin bottom by footer height */
+  margin-bottom: 60px;
+}
+.footer {
+  position: absolute;
+  bottom: 0;
+  width: 100%;
+  /* Set the fixed height of the footer here */
+  height: 40px;
+  background-color: rgba(255, 255, 255, 0);
+}
+
+
+/* Custom page CSS
+-------------------------------------------------- */
+/* Not required for template or sticky footer method. */
+
+.container {
+  width: auto;
+  max-width: 680px;
+  padding: 0 15px;
+}
+.container .text-muted {
+  margin: 10px 0;
+  color: azure;
+  text-align: center;
+  line-height: 18px;
+}
